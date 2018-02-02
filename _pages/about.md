@@ -12,7 +12,7 @@ ojbkkkkkkkkkkkkkkkkkkkk
 
 A data-driven personal website
 ======
-![Personal Profile](/images/chenchacha.jpeg)
+
 
 Getting started
 ======
