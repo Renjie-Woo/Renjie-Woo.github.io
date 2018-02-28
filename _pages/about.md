@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 
-![about](image/hpny.jpeg)
+![about](images/hpny.jpeg)
 
