@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-突然词穷
+
 ![about](image/hpny.jpeg)
 
