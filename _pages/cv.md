@@ -14,6 +14,6 @@ Education
 * B.S. in Shanghai, Shanghai Jiaotong University, since 2015
 
 
-[ChachaChen_CV.pdf](./files/ChachaChen_CV.pdf)
+[ChachaChen_CV.pdf](files/ChachaChen_CV.pdf)
 
 
