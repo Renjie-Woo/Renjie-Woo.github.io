@@ -20,7 +20,7 @@ Currently, I am working as a research intern of the City Brain project on **inte
 
 
 
-We are doing very exciting and impactful things in Hangzhou. Here's some news about us!
+We are doing very exciting and impactful things in Hangzhou. Here are some news about us!
 
 [<span style="color:purple">**@XINHUANET新华网** </span>AI-driven technology reshaping city traffic in China](http://www.xinhuanet.com/english/2018-03/10/c_137029827.htm)
 
