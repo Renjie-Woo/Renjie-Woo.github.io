@@ -38,7 +38,7 @@ We are doing very exciting and impactful things in Hangzhou. Here are some news 
 	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 
 ## Publication
-- Deep Reinforcement Learning for Traffic Signal Control along Arterials
+- M-IntelliLight: a Deep Reinforcement Learning Approach for Multi-Intersection Traffic Signal Control
 	- Hua Wei, **Chacha Chen**, Kan Wu, Guanjie Zheng, Zhengyao Yu, Vikash Gayah and Zhenhui Li
 	- Submitted to the International World Wide Web Conference (**WWW**), 2019.
 
