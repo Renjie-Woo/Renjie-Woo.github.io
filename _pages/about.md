@@ -41,6 +41,7 @@ We are doing very exciting and impactful things in Hangzhou. Here are some news 
 - Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, PressLight: Learning Max Pressure Control for Signalized Intersections in Arterial Network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2019). 
 
 
+
 ## Research Experience
 
 ### Deep Reinforcement Learning for Traffic Signal Control 
