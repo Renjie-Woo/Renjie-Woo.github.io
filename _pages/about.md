@@ -34,13 +34,11 @@ We are doing very exciting and impactful things in Hangzhou. Here are some news 
 ## Education
 - Shanghai Jiao Tong University Shanghai **(SJTU)**, China
 	- B.E. in Computer Science, Sep.2015 -- Jun.2019 (Expected)
-	- GPA: 3.68/4.0 (87.1/100) 
+	<!--- GPA: 3.68/4.0 (87.1/100) -->
 	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 
 ## Publication
-- Deep Reinforcement Learning for Traffic Signal Control along Arterials
-	- Hua Wei, **Chacha Chen**, Kan Wu, Guanjie Zheng, Zhengyao Yu, Vikash Gayah and Zhenhui Li
-	- Submitted to the International World Wide Web Conference (**WWW**), 2019.
+- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, PressLight: Learning Max Pressure Control for Signalized Intersections in Arterial Network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2019). 
 
 
 ## Research Experience
