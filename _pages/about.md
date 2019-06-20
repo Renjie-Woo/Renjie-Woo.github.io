@@ -53,8 +53,16 @@ _Research Intern, Advisor: Prof. Zhenhui (Jessie) Li Jul.2018 - Present_
 - Achieved state-of-the-art performance in simulation on both synthetic and real-world traffic data
 - Started conducting field experiments in Hangzhou China
 
-<span style="color:purple">**Here's a demo video of our intelligent traffic light!** </span> 
-<iframe width="448" height="252" src="https://www.youtube.com/embed/0zeHDpv361Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="color:purple">**Here's a demo video showing how our intelligent traffic light learn the greenwave!** </span> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zeHDpv361Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:purple">**Hangzhou Intelligent Signal Control System Demo** </span> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj2rRASpPGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:purple">**Toward a Thousand Lights--Manhattan Experiment Demo** </span> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UulnApXbjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mining Homeownership Patterns 
 _Research Assistant, Advisor: Prof. Tingting Lu (Social Science) and Prof. Weinan Zhang Mar.2018 - Present_
