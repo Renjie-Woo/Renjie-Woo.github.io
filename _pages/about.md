@@ -10,21 +10,26 @@ redirect_from:
 
 About me
 ======
-Hi, it's Chacha. I am a senior undergraduate student in the Department of Computer Science, **Shanghai Jiao Tong University**. 
 
+
+
+Hi, it's Chacha. I am a first year PhD student in IST at Penn State University. I am fortunate to be advised by  [Prof. **Zhenhui Jessie Li**](https://faculty.ist.psu.edu/jessieli).  Before joining Penn State, I received my bachelor's degree from Shanghai Jiao Tong University.
+
+<!--Computer Science, **Shanghai Jiao Tong University**. 
+-->
 I'm interested in the general field of **Data Mining** and **Machine Learning**. Particularly, I aspire to solve real-world problems using Machine Learning techniques. Big Data itself cannot be utilized and well-understood. I want to be a data scientist who is able to turn data into knowledge which, in the long run, make impacts and improve the living standard of human society.
 
-Currently, I am working as a research intern of the City Brain project on **intelligent traffic signal control**, advised by [Prof. **Zhenhui Jessie Li**](https://faculty.ist.psu.edu/jessieli).
+<!--Currently, I am working as a research intern of the City Brain project on **intelligent traffic signal control**, advised by [Prof. **Zhenhui Jessie Li**](https://faculty.ist.psu.edu/jessieli).-->
 
 - My [<span style="color:orange">**Curriculum Vitae** </span>](/files/Chacha_CV.pdf).
 
 
 
-We are doing very exciting and impactful things in Hangzhou. Here is some news about us!
+<!--We are doing very exciting and impactful things in Hangzhou. Here is some news about us!-->
 
-[<span style="color:purple">**@XINHUANET新华网** </span>AI-driven technology reshaping city traffic in China](http://www.xinhuanet.com/english/2018-03/10/c_137029827.htm)
+<!--[<span style="color:purple">**@XINHUANET新华网** </span>AI-driven technology reshaping city traffic in China](http://www.xinhuanet.com/english/2018-03/10/c_137029827.htm)
 
-[<span style="color:purple">**@WIRED** </span>  In China, Alibaba’s data-hungry AI is controlling (and watching) cities](https://www.wired.co.uk/article/alibaba-city-brain-artificial-intelligence-china-kuala-lumpur)
+[<span style="color:purple">**@WIRED** </span>  In China, Alibaba’s data-hungry AI is controlling (and watching) cities](https://www.wired.co.uk/article/alibaba-city-brain-artificial-intelligence-china-kuala-lumpur)-->
 
 <!--[<span style="color:purple">**@Technode** </span> Hangzhou is becoming a pioneer in urban digitization](https://technode.com/2018/09/19/hangzhou-digitization-pioneer/)
 
@@ -56,9 +61,9 @@ _Research Intern, Advisor: Prof. Zhenhui (Jessie) Li Jul.2018 - Present_
 <span style="color:purple">**Here's a demo video showing how our intelligent traffic light learn the greenwave!** </span> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zeHDpv361Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<span style="color:purple">**Hangzhou Intelligent Signal Control System Demo** </span> 
+<!--<span style="color:purple">**Hangzhou Intelligent Signal Control System Demo** </span> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj2rRASpPGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj2rRASpPGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <span style="color:purple">**Toward a Thousand Lights--Manhattan Experiment Demo** </span> 
 
@@ -82,14 +87,14 @@ _Research Assistant, Advisor: Prof. Xiaolin Huang Sep.2017 - Mar.2018_
 
 ## Contact
 - Email: chachachen1997@gmail.com
-- Tel: (+86) 17621936317
-- Skype: chachachen1997
-- Address: 800 Dongchuan Rd, Minhang Campus, Shanghai Jiaotong University, Shanghai
+<!--- Tel: (+1)8146992243-->
+<!--- Skype: chachachen1997-->
+<!--- Address: 800 Dongchuan Rd, Minhang Campus, Shanghai Jiaotong University, Shanghai-->
 
 
-## Miscellaneous
+<!--## Miscellaneous
 - Volunteer: Organized a bazaar selling study notes to help people with kidney disease
 - Programming: C/C++, Python, C#, Java, JavaScript, SQL
-- Interests: badminton, swimming, photography
+- Interests: badminton, swimming, photography-->
 
 <!--Other places to find me: facebook, weibo (in Chinese)-->
