@@ -43,7 +43,10 @@ I'm interested in the general field of **Data Mining** and **Machine Learning**.
 	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 
 ## Publication
-- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, PressLight: Learning Max Pressure Control for Signalized Intersections in Arterial Network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2019). 
+- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, CoLight: Learning Network-level Cooperation for Traffic Signal Control. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Research track with full paper, acceptance rate: ~200/1030=19.4%) [To appear]
+- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Research track with poster presentation, acceptance rate: ~170/1200=14.2%)[code & demo]
+
+
 
 
 
