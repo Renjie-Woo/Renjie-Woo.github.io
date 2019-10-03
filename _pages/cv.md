@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Renjie Wu's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+## CV
+[To DOWNLOAD](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf)
 
-Education
-======
-* B.S. in Shanghai, Shanghai Jiaotong University, since 2015
+## Education
+* B.S. in Shanghai JiaoTong University, since 2016
 
-###TO DOWNLOAD
-
-<a href="/files/ChachaChen_CV.pdf" download = "ChachaChen_CV.pdf">ChachaChen_CV.pdf
 
 
 
