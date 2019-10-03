@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chacha Chen"
+title                    : "Renjie Wu"
 title_separator          : "-"
-name                     : &name "Chacha Chen"
-description              : &description "Undergraduate Student at SJTU"
-url                      : https://Chacha-Chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Renjie Wu"
+description              : &description "B.S. in Computer Science and Technology"
+url                      : https://Renjie-Woo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Chacha-Chen/Chacha-Chen.github.io"
+repository               : "Renjie-Woo/Renjie-Woo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -71,20 +71,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false ######"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Chacha-Chen"
+  name             : "Renjie Wu"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student at SJTU"
-  location         : "Shanghai"
+  bio              : "Shanghai Jiao Tong University\n B.S. in Computer Science and Technology"
+  location         : "Shanghai, China"
   employer         :
   googlescholar    : 
-  email            : chachachen1997@gmail.com
+  email            : woolunjang@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Chacha-Chen"
+  github           : "Renjie-Woo"
   google_plus      :
   keybase          :
   instagram        :
