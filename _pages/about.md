@@ -7,13 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- 
+个人简介：100-150w
+CV链接
+Skills选自CV
+照片：展示多方面的experience
+联系方式 -->
+# About me
+<img src="https://github.com/Renjie-Woo/Renjie-Woo.github.io/blob/master/images/profile.png" />
+Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shanghai Jiao Tong University.
 
-About me
-======
+# Research Interests
+* Computer Graphics
+* Computer Vision
+* Artificial Intelligence
+* Machine Learning
 
+# Skills
+* Language: Python, C/C++, HTML, CSS, JavaScript, C#, MATLAB, MySQL, Latex, Java, Swift
+* Machine Learning: Numpy, Tensorflow
+* Graphics: OpenGL, Unity
+* Others: Photography, Adobe Photoshop
 
-
-Hi, it's Chacha. I am a first year PhD student in IST at Penn State University. I am fortunate to be advised by  [Prof. **Zhenhui Jessie Li**](https://faculty.ist.psu.edu/jessieli).  Before joining Penn State, I received my bachelor's degree from Shanghai Jiao Tong University.
+## Contact
+- Email: woolunjang@gmail.com
 
 <!--Computer Science, **Shanghai Jiao Tong University**. 
 -->
@@ -42,10 +59,6 @@ I'm interested in the general field of **Data Mining** and **Machine Learning**.
 	<!--- GPA: 3.68/4.0 (87.1/100) -->
 	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 
-## Publication
-- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, CoLight: Learning Network-level Cooperation for Traffic Signal Control. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Research track with full paper, acceptance rate: ~200/1030=19.4%) [To appear]
-- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Research track with poster presentation, acceptance rate: ~170/1200=14.2%)[code & demo]
-
 
 
 
@@ -71,33 +84,3 @@ _Research Intern, Advisor: Prof. Zhenhui (Jessie) Li Jul.2018 - Present_
 <span style="color:purple">**Toward a Thousand Lights--Manhattan Experiment Demo** </span> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UulnApXbjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Mining Homeownership Patterns 
-_Research Assistant, Advisor: Prof. Tingting Lu (Social Science) and Prof. Weinan Zhang Mar.2018 - Present_
-
-- Formulated the task into a multi-class classification problem in machine learning based on the data collected from a national scale survey
-- Implemented logistic regression and tree model to predict the homeownership
-- Interpreted the machine learning models with feature ranking and visualization which further reveals the
-mechanism and pattern of homeownership
-
-### SVM Toolbox for Both Indefinite and Semi-definite Kernel Learning 
-_Research Assistant, Advisor: Prof. Xiaolin Huang Sep.2017 - Mar.2018_
-
-- Coauthored a software package which accommodates Support Vector Machine (SVM) classification algorithms with indefinite kernels and semi-definite kernels
-- Incorporated Sequential Minimal Optimization (SMO) in the traditional SVM algorithm
-- Provided various kernel functions, including TAHN, TL1, Gaussian, polynomial and linear kernels
-- Implemented various vector machine algorithms, including KVM, LSSVM, kPCA
-
-## Contact
-- Email: chachachen1997@gmail.com
-<!--- Tel: (+1)8146992243-->
-<!--- Skype: chachachen1997-->
-<!--- Address: 800 Dongchuan Rd, Minhang Campus, Shanghai Jiaotong University, Shanghai-->
-
-
-<!--## Miscellaneous
-- Volunteer: Organized a bazaar selling study notes to help people with kidney disease
-- Programming: C/C++, Python, C#, Java, JavaScript, SQL
-- Interests: badminton, swimming, photography-->
-
-<!--Other places to find me: facebook, weibo (in Chinese)-->
