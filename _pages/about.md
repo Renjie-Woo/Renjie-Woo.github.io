@@ -18,7 +18,7 @@ Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shan
 ....
 
 # CV
-* [My Up-to-date Curriculum Vitae](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf)
+* [My Up-to-date Curriculum Vitae](http://renjie-woo.github.io/files/RJ_CV.pdf)
 
 # Research Interests
 * Computer Graphics

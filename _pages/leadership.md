@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Leadership and Awards"
+title: ""
 permalink: /leadership/
 author_profile: true
 ---
