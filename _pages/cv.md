@@ -1,18 +1,17 @@
 ---
 layout: archive
-title: "Renjie Wu's CV"
-permalink: /cv/
+title: "Visitor"
+permalink: /visitor/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-## CV
-[To DOWNLOAD](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf)
+## Visitors
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=548zd8ujhjl&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
-## Education
-* B.S. in Shanghai JiaoTong University, since 2016
+
 
 
 
