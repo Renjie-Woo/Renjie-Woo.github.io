@@ -17,7 +17,7 @@ author_profile: true
 # Honors and Awards
 * **Outstanding Students Awards(Expected)**										  
 Oct. 2019
-* **Excellent League Member**
-</br>May. 2017
-* **Outstanding students of Military Training**
-</br>Sep. 2017
+* **Excellent League Member**  
+May. 2017
+* **Outstanding students of Military Training**  
+Sep. 2017

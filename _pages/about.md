@@ -47,7 +47,8 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 - Established scenes of operation for data displaying and transplanted the PC interactions to VR interactions for simulating the operation of dental surgery, implemented the calculation of transform matrix for each tooth
 
 <span style="color:purple">**Here's a demo video showing the operation of our model!** </span> 
-<iframe width="560" height="315" src="https://youtu.be/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## [Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/research/reconstruction/)							 Sep. 2018 – Dec. 2018
 Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
