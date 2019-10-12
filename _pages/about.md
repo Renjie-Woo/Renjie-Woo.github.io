@@ -31,6 +31,7 @@ If you want to know more about me, please feel free to contact me.
 
 # Education
 <b>B.S.</b> in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University(SJTU)](http://en.sjtu.edu.cn/), <b>China</b>
+
 Sep. 2016 - Jun. 2020 (Expected) 
 * <b>Overall GPA:</b> 85.82/100	 &emsp; &emsp;	<b>Major GPA:</b> 92.3/100
 * <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Artificial Intelligence(87/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
@@ -44,7 +45,7 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
   - Pan along X/Y/Z axis
   - Rotate around left/right/top/bottom side
 - Established scenes of operation for data displaying and transplanted the PC interactions to VR interactions for simulating the operation of dental surgery, implemented the calculation of transform matrix for each tooth
-</br>
+
 <span style="color:purple">**Here's a demo video showing the operation of our model!** </span> 
 <iframe width="560" height="315" src="https://youtu.be/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,7 +55,7 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 - Implemented a FCN network for segmenting teeth parts from the whole CT scans automatically
 - Implemented edge extraction using canny/sobel operator, point cloud generation from extracted edges with PCL and OpenCV library and 3D mesh model reconstruction with MeshLab
 
-   <img src="https://renjie-woo.github.io/images/reconstruction/SEG.png" width = "30%"/>
+   <img src="https://renjie-woo.github.io/images/reconstruction/SEG.png" width = "50%"/>
 
    <!-- [![poster for Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/images/reconstruction/SEG.png)](https://renjie-woo.github.io/images/reconstruction/SEG.png)
    -->
