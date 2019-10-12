@@ -49,7 +49,6 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 <span style="color:purple">**Here's a demo video showing the operation of our model!** </span> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## [Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/research/reconstruction/)							 Sep. 2018 – Dec. 2018
 Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 - Produced a dataset of 315 teeth images manually from CT scans with Photoshop
@@ -74,6 +73,8 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 - Established realistic scenes associated with snow mountains and skiing
 - Implemented a real-time detection system combined on VR handles which can be used to detect the orientation and swing range of players with methods of relative displacement
 - Implemented mechanism used for controlling the player by imitating the real operation 
+<span style="color:purple">**Here's a demo video showing the operation of our model!** </span> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nFPyu8AAwVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ChinaVis 2019 Data Visualization									  May. 2019 - Jun. 2019
 Advisor: Prof. Xiaoju Dong, Institute of Theoretical Computer Science, SJTU
