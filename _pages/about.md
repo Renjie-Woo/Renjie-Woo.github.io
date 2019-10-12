@@ -37,7 +37,7 @@ Sep. 2016 - Jun. 2020 (Expected)
 * <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Artificial Intelligence(87/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
 
 # Research Experience
-## VR-based 3D Tooth Operation Model System for Dental Surgery		Apr. 2019 - Jun. 2019
+## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)		Apr. 2019 - Jun. 2019
 Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 - Proposed and Implemented a method for relocating the center, initially equal to the center of the whole teeth, of each tooth, established single tooth coordinate systems and oriented bounding boxes (OBB) for each tooth by using principal component analysis (PCA)
 - Implemented interactions with 10 forms of transformation for each tooth with keyboard and mouse:
@@ -60,7 +60,7 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
    <!-- [![poster for Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/images/reconstruction/SEG.png)](https://renjie-woo.github.io/images/reconstruction/SEG.png)
    -->
 
-## Clothes Recognition and Retrieval 								   Jul. 2019 - Aug. 2019
+## [Clothes Recognition and Retrieval](https://renjie-woo.github.io/research/retrieval/) 								   Jul. 2019 - Aug. 2019
 Advisor: Prof. Liqing Zhang, Institute of Intelligent Human-Computer Interaction, SJTU
 - Systematically studied clothing retrieval networks such as Faster R CNN, FashionNet
 - Obtained the basal dataset of the clothes images from JingDong with the web crawler, produced a new dataset with 616575 images and associated labels with 20 multi-label attribute classes manually
@@ -68,7 +68,7 @@ Advisor: Prof. Liqing Zhang, Institute of Intelligent Human-Computer Interaction
 - Designed and implemented a Recognition Network based on VGG which owns 20 subnets for multi-label training, optimized the accuracy to 0.9646 with methods such as Xavier, batch normalization
 
 
-## VR-based Alpine Skiing project for 2022 Olympic Winter Games	  Apr. 2019 - Jun. 2019
+## [VR-based Alpine Skiing project for 2022 Olympic Winter Games](https://renjie-woo.github.io/research/skiing/)	  Apr. 2019 - Jun. 2019
 Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 - Established realistic scenes associated with snow mountains and skiing
 - Implemented a real-time detection system combined on VR handles which can be used to detect the orientation and swing range of players with methods of relative displacement
@@ -76,7 +76,7 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
 <span style="color:purple">**Here's a demo video showing the operation of our model!** </span> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFPyu8AAwVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## ChinaVis 2019 Data Visualization									  May. 2019 - Jun. 2019
+## [ChinaVis 2019 Data Visualization](https://renjie-woo.github.io/research/chinavis/)									  May. 2019 - Jun. 2019
 Advisor: Prof. Xiaoju Dong, Institute of Theoretical Computer Science, SJTU
 - Analyzed a set of data from ChinaVis 2019 with methods of cluster and found the inner relationship among the data and some outliers
 - Established a webpage for demonstrating the findings about the relationship and outliers with different 
