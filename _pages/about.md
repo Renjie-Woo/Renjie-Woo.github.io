@@ -15,7 +15,10 @@ Skills选自CV
 联系方式 -->
 # About me
 Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shanghai Jiao Tong University(SJTU), China.
-....
+
+My research interests are Computer Graphics, Computer Vision, Artificial Intelligence, Machine Learning, particularly in Medical Imaging. I want to combine the adcanced technology about computer vision and Artificial Intelligence with daily life, creating machines which can be used for make it convenient for hunman to predict, diagnose and cure disease.
+
+If you want to know more about me, please feel free to contact me.
 
 # CV
 * [My Up-to-date Curriculum Vitae](http://renjie-woo.github.io/files/RJ_CV.pdf)
@@ -27,10 +30,53 @@ Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shan
 * Machine Learning
 
 # Education
-<b>B.S. in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University(SJTU)](http://en.sjtu.edu.cn/), China</b>
-</br>Sep. 2016 - Jun. 2020 (Expected) 
+<b>B.S.</b> in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University(SJTU)](http://en.sjtu.edu.cn/), <b>China</b>
+Sep. 2016 - Jun. 2020 (Expected) 
 * <b>Overall GPA:</b> 85.82/100	 &emsp; &emsp;	<b>Major GPA:</b> 92.3/100
 * <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Artificial Intelligence(87/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
+
+# Research Experience
+## VR-based 3D Tooth Operation Model System for Dental Surgery		Apr. 2019 - Jun. 2019
+Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
+- Proposed and Implemented a method for relocating the center, initially equal to the center of the whole teeth, of each tooth, established single tooth coordinate systems and oriented bounding boxes (OBB) for each tooth by using principal component analysis (PCA)
+- Implemented interactions with 10 forms of transformation for each tooth with keyboard and mouse:
+  - Rotate around X/Y/Z axis of the tooth
+  - Pan along X/Y/Z axis
+  - Rotate around left/right/top/bottom side
+- Established scenes of operation for data displaying and transplanted the PC interactions to VR interactions for simulating the operation of dental surgery, implemented the calculation of transform matrix for each tooth
+</br>
+<span style="color:purple">**Here's a demo video showing the operation of our model!** </span> 
+<iframe width="560" height="315" src="https://youtu.be/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/research/reconstruction/)							 Sep. 2018 – Dec. 2018
+Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
+- Produced a dataset of 315 teeth images manually from CT scans with Photoshop
+- Implemented a FCN network for segmenting teeth parts from the whole CT scans automatically
+- Implemented edge extraction using canny/sobel operator, point cloud generation from extracted edges with PCL and OpenCV library and 3D mesh model reconstruction with MeshLab
+
+   <img src="https://renjie-woo.github.io/images/reconstruction/SEG.png" width = "30%"/>
+
+   <!-- [![poster for Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/images/reconstruction/SEG.png)](https://renjie-woo.github.io/images/reconstruction/SEG.png)
+   -->
+
+## Clothes Recognition and Retrieval 								   Jul. 2019 - Aug. 2019
+Advisor: Prof. Liqing Zhang, Institute of Intelligent Human-Computer Interaction, SJTU
+- Systematically studied clothing retrieval networks such as Faster R CNN, FashionNet
+- Obtained the basal dataset of the clothes images from JingDong with the web crawler, produced a new dataset with 616575 images and associated labels with 20 multi-label attribute classes manually
+- Chose 20 multi-label attribute classes (totally 202 attributes) for training
+- Designed and implemented a Recognition Network based on VGG which owns 20 subnets for multi-label training, optimized the accuracy to 0.9646 with methods such as Xavier, batch normalization
+
+
+## VR-based Alpine Skiing project for 2022 Olympic Winter Games	  Apr. 2019 - Jun. 2019
+Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
+- Established realistic scenes associated with snow mountains and skiing
+- Implemented a real-time detection system combined on VR handles which can be used to detect the orientation and swing range of players with methods of relative displacement
+- Implemented mechanism used for controlling the player by imitating the real operation 
+
+## ChinaVis 2019 Data Visualization									  May. 2019 - Jun. 2019
+Advisor: Prof. Xiaoju Dong, Institute of Theoretical Computer Science, SJTU
+- Analyzed a set of data from ChinaVis 2019 with methods of cluster and found the inner relationship among the data and some outliers
+- Established a webpage for demonstrating the findings about the relationship and outliers with different 
 
 
 # Skills
