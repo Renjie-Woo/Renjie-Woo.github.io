@@ -14,20 +14,14 @@ Skills选自CV
 照片：展示多方面的experience
 联系方式 -->
 # About me
-Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shanghai Jiao Tong University(SJTU), China.
+Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shanghai Jiao Tong University (SJTU), China.
 
 My research interests are Computer Graphics, Computer Vision, Artificial Intelligence, Machine Learning, particularly in Medical Imaging. I want to combine the adcanced technology about computer vision and Artificial Intelligence with daily life, creating machines which can be used for make it convenient for hunman to predict, diagnose and cure disease.
 
 If you want to know more about me, please feel free to contact me.
 
-# CV
+# Curriculum Vitae (CV)
 * [My Up-to-date Curriculum Vitae](http://renjie-woo.github.io/files/RJ_CV.pdf)
-
-# Research Interests
-* Computer Graphics
-* Computer Vision
-* Artificial Intelligence
-* Machine Learning
 
 # Education
 <b>B.S.</b> in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University(SJTU)](http://en.sjtu.edu.cn/), <b>China</b>
@@ -36,6 +30,14 @@ Sep. 2016 - Jun. 2020 (Expected)
 * <b>Overall GPA:</b> 85.8/100	 &emsp; &emsp;	<b>Major GPA:</b> 92.3/100
 * <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
 
+<!-->
+# Research Interests
+* Computer Vision
+* Computer Graphics
+* Artificial Intelligence
+* Machine Learning
+
+<!--
 # Research Experience
 ## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)		Apr. 2019 - Jun. 2019
 Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
@@ -58,7 +60,7 @@ Advisor: Prof. Bin Sheng, Institute of Computer Application, SJTU
    <img src="https://renjie-woo.github.io/images/reconstruction/SEG.png" width = "50%"/>
 
    <!-- [![poster for Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/images/reconstruction/SEG.png)](https://renjie-woo.github.io/images/reconstruction/SEG.png)
-   -->
+   --
 
 ## [Clothes Recognition and Retrieval](https://renjie-woo.github.io/research/retrieval/) 								   Jul. 2019 - Aug. 2019
 Advisor: Prof. Liqing Zhang, Institute of Intelligent Human-Computer Interaction, SJTU
