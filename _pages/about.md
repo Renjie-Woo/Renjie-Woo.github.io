@@ -33,8 +33,8 @@ If you want to know more about me, please feel free to contact me.
 <b>B.S.</b> in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University(SJTU)](http://en.sjtu.edu.cn/), <b>China</b>
 
 Sep. 2016 - Jun. 2020 (Expected) 
-* <b>Overall GPA:</b> 85.82/100	 &emsp; &emsp;	<b>Major GPA:</b> 92.3/100
-* <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Artificial Intelligence(87/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
+* <b>Overall GPA:</b> 85.8/100	 &emsp; &emsp;	<b>Major GPA:</b> 92.3/100
+* <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
 
 # Research Experience
 ## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)		Apr. 2019 - Jun. 2019
