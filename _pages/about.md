@@ -26,15 +26,8 @@ If you want to know more about me, please feel free to contact me.
 # Education
 <b>B.S.</b> in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/), <b>China</b><br>
 Sep. 2016 - Jun. 2020 (Expected) 
-* <b>Overall GPA:</b> 85.8/100	 &emsp; &emsp;	<b>Junior GPA:</b> 92.3/100
-* <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
-
-<!-->
-# Research Interests
-* Computer Vision
-* Computer Graphics
-* Artificial Intelligence
-* Machine Learning
+<b>Overall GPA:</b> 85.8/100	 &emsp; &emsp;	<b>Junior GPA:</b> 92.3/100
+<b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
 
 <!--
 # Research Experience
