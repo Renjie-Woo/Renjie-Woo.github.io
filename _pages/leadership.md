@@ -14,14 +14,16 @@ author_profile: true
     * Led classmates to participate in Class Style Contest and won the first prize (only four classes earned this prize among 40 classes); 
     * Organized classmates to take part in the Competition of Best Classes of SJTU and earned the Third Prize of The Best Class Award in the sophomore year (other winning classes are at least in their junior year)
     * Organized more than 20 activities in the class of 31 students such as class meetings, class trips, and contests
+    <center>
+    <img src="https://renjie-woo.github.io/images/leadership/F1603305-all.JPG" width="50%" />
+    <img src="https://renjie-woo.github.io/images/leadership/F1603305-final.JPG" width="50%" />
+    </center>
 * **Volunteer of Shanghai International Marathon** <!--&emsp;--> 
 <br>Nov. 2017, Oct. 2018
 <center>
-    <img src="https://renjie-woo.github.io/images/leadership/mrs.JPG" width="50%" />
+    <img src="https://renjie-woo.github.io/images/leadership/mrs.JPG" width="50%" /><br>
+    <span>Volunteered for 2017 Shanghai International Marathon</span>
 </center>
-<span>
-Volunteered for 2017 Shanghai International Marathon
-</span>
 <!--# HONORS AND AWARDS
 # Honors and Awards
 * Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
