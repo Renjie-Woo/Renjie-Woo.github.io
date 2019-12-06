@@ -19,6 +19,9 @@ author_profile: true
 <center>
     <img src="https://renjie-woo.github.io/images/leadership/mrs.JPG" width="50%" />
 </center>
+<span>
+Volunteered for 2017 Shanghai International Marathon
+</span>
 <!--# HONORS AND AWARDS
 # Honors and Awards
 * Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
