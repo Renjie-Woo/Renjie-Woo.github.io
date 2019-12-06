@@ -9,6 +9,7 @@ author_profile: true
 <br>Sep. 2017 - Sep. 2019
     * Organized at least 5 photography trainings for more than 30 new members; Designed and organized the filming of the video for Anniversary Memorial of SSC
     * Undertook the photojournalism work of many large conferences at SJTU such as ”FaxXing Plan” and ”Top Ten Influential People on Campus”
+    
 * [**Monitor - Class F1603305**](http://renjie-woo.github.io/images/F1603305.jpg)
 <br>Sep. 2016 - Jun. 2020 (Expected)
     * Led classmates to participate in Class Style Contest and won the first prize (only four classes earned this prize among 40 classes); 
