@@ -10,11 +10,11 @@ author_profile: true
     * Organized at least 5 photography trainings for more than 30 new members; Designed and organized the filming of the video for Anniversary Memorial of SSC
     * Undertook the photojournalism work of many large conferences at SJTU such as ”FanXing Plan” and ”Top Ten Influential People on Campus”
     <center>
-    <img src="https://renjie-woo.github.io/images/leadership/2017_XF.png" width="50%" />
-    <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816025628401605f18522945e5"><span>2017 SSC Anniversary Celebration</span></a>
-    <img src="https://renjie-woo.github.io/images/leadership/2018.png" width="50%" />
-    <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816372b71601646a55356572dc"><span>FanXing - 2018 Shanghai Jiao Tong University Inspirational Character Selection Activity</span></a>
-    <img src="https://renjie-woo.github.io/images/leadership/2019_FX.png" width="50%" />
+    <img src="https://renjie-woo.github.io/images/leadership/2017_XF.png" width="50%" /><br>
+    <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816025628401605f18522945e5"><span>2017 SSC Anniversary Celebration</span></a><br>
+    <img src="https://renjie-woo.github.io/images/leadership/2018.png" width="50%" /><br>
+    <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816372b71601646a55356572dc"><span>FanXing - 2018 Shanghai Jiao Tong University Inspirational Character Selection Activity</span></a><br>
+    <img src="https://renjie-woo.github.io/images/leadership/2019_FX.png" width="50%" /><br>
     <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816bf3a209016bf4767d7a01ef"><span>FanXing - 2019 Shanghai Jiao Tong University Inspirational Character Selection Activity</span></a>
     </center>
 * [**Monitor - Class F1603305**](http://renjie-woo.github.io/images/F1603305.jpg)
@@ -28,14 +28,10 @@ author_profile: true
     </center>
 * **Volunteer of Shanghai International Marathon** <!--&emsp;--> 
 <br>Nov. 2017, Oct. 2018
-<<<<<<< HEAD
 <center>
     <img src="https://renjie-woo.github.io/images/leadership/mrs.JPG" width="50%" /><br>
     <span>Volunteered for 2017 Shanghai International Marathon</span>
 </center>
-=======
-
->>>>>>> parent of 19c280e... new
 <!--# HONORS AND AWARDS
 # Honors and Awards
 * Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
