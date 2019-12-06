@@ -29,6 +29,14 @@ Sep. 2016 - Jun. 2020 (Expected) <br>
 <b>Overall GPA:</b> 85.8/100	 &emsp; &emsp;	<b>Junior GPA:</b> 92.3/100
 <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
 
+<!--# HONORS AND AWARDS-->
+# Honors and Awards
+* Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
+* Academic Excellence Scholarship of Shanghai Jiao Tong University (top 10%), Nov. 2019
+* Academic Progress Scholarship of Shanghai Jiao Tong University, Nov. 2019
+* Outstanding Students of Military Training (top 10%), Sep. 2017
+* Excellent League Member of Shanghai Jiao Tong University (top 10%), May. 2017
+
 <!--
 # Research Experience
 ## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)		Apr. 2019 - Jun. 2019

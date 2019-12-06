@@ -17,15 +17,11 @@ author_profile: true
 * **Volunteer of Shanghai International Marathon** <!--&emsp;--> 
 <br>Nov. 2017, Oct. 2018
 
-<!--# HONORS AND AWARDS-->
+<!--# HONORS AND AWARDS
 # Honors and Awards
-* **Elite Liu Yongling Scholarship (top 1%)**<br>
-Oct. 2019						  
-* **Academic Excellence Scholarship of Shanghai Jiao Tong University (top 10%)**<br>
-Nov. 2019
-* **Academic Progress Scholarship of Shanghai Jiao Tong University**<br>
-Nov. 2019
-* **Outstanding Students of Military Training (top 10%)**<br>
-Sep. 2017
-* **Excellent League Member of Shanghai Jiao Tong University (top 10%)**<br>
-May. 2017
+* Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
+* Academic Excellence Scholarship of Shanghai Jiao Tong University (top 10%), Nov. 2019
+* Academic Progress Scholarship of Shanghai Jiao Tong University, Nov. 2019
+* Outstanding Students of Military Training (top 10%), Sep. 2017
+* Excellent League Member of Shanghai Jiao Tong University (top 10%), May. 2017
+-->
