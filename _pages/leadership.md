@@ -4,7 +4,7 @@ title: ""
 permalink: /leadership/
 author_profile: true
 ---
-# Leadership and Activities
+<!-- # Leadership and Activities -->
 * **Core Member - Student Service Center (SSC, university-wide)**
 <br>Sep. 2017 - Sep. 2019
     * Organized at least 5 photography trainings for more than 30 new members; Designed and organized the filming of the video for Anniversary Memorial of SSC
@@ -16,7 +16,9 @@ author_profile: true
     * Organized more than 20 activities in the class of 31 students such as class meetings, class trips, and contests
 * **Volunteer of Shanghai International Marathon** <!--&emsp;--> 
 <br>Nov. 2017, Oct. 2018
-
+<center>
+    <img src="https://renjie-woo.github.io/images/leadership/mrs.JPG" width="50%" />
+</center>
 <!--# HONORS AND AWARDS
 # Honors and Awards
 * Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
