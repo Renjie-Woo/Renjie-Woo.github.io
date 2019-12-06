@@ -26,7 +26,7 @@ If you want to know more about me, please feel free to contact me.
 # Education
 <b>B.S.</b> in [Computer Science and Technology](http://www.cs.sjtu.edu.cn/en/), SJTU, <b>China</b><br>
 Sep. 2016 - Jun. 2020 (Expected) <br>
-<b>Overall GPA:</b> 85.8/100	 &emsp; &emsp;	<b>Junior GPA:</b> 92.3/100
+<b>Overall GPA:</b> 3.6/4.0 (85.8/100)	 &emsp; &emsp;	<b>Junior GPA:</b> 4.0/4.0 (92.3/100)<br>
 <b>Core Courses:</b> Algorithm and Complexity(98/100), Computer Graphics(92.5/100), Virtual Reality and Augmented Display(93/100), Data Visualization and Visual Analytics(93/100)
 
 <!--# HONORS AND AWARDS-->
