@@ -34,3 +34,4 @@ CLICK ON THE TITLE FOR DETAILS!
 ## [ChinaVis 2019 Data Visualization](https://renjie-woo.github.io/research/chinavis/)
 * Predicted the conference agenda, possible potential types, and relationships of participants as well as emergency represented by outliers after analyzing data of sensors through clustering
 * Designed and implemented an interactive visual analysis website to demonstrate ﬁndings about the relationship and outliers with 9 different kinds of charts(Personal Track Map, Radial Bar Chart, etc) and different interactive methods
+<iframe width="560" height="315" src="https://www.youtube.com/embed/reXQfl-iBpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
