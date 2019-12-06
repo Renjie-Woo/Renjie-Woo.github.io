@@ -15,7 +15,7 @@ author_profile: true
 
     <img src="https://renjie-woo.github.io/images/leadership/2018.png" width="50%" /><br>
     <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816372b71601646a55356572dc"><span>FanXing - 2018 Shanghai Jiao Tong University Inspirational Character Selection Activity</span></a><br>
-    
+
     <img src="https://renjie-woo.github.io/images/leadership/2019_FX.png" width="50%" /><br>
     <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816bf3a209016bf4767d7a01ef"><span>FanXing - 2019 Shanghai Jiao Tong University Inspirational Character Selection Activity</span></a>
     </center>
@@ -28,17 +28,22 @@ author_profile: true
     <img src="https://renjie-woo.github.io/images/leadership/F1603305-all.png" width="50%" />
     <img src="https://renjie-woo.github.io/images/leadership/F1603305-final.png" width="50%" />
     </center>
-* **Volunteer of Shanghai International Marathon** <!--&emsp;--> 
+<!--# HONORS AND AWARDS
+
+
+
+* **Volunteer of Shanghai International Marathon**
 <br>Nov. 2017, Oct. 2018
 <center>
     <img src="https://renjie-woo.github.io/images/leadership/mrs.JPG" width="50%" /><br>
     <span>Volunteered for 2017 Shanghai International Marathon</span>
 </center>
-<!--# HONORS AND AWARDS
+
 # Honors and Awards
 * Elite Liu Yongling Scholarship (top 1%), Oct. 2019						  
 * Academic Excellence Scholarship of Shanghai Jiao Tong University (top 10%), Nov. 2019
 * Academic Progress Scholarship of Shanghai Jiao Tong University, Nov. 2019
 * Outstanding Students of Military Training (top 10%), Sep. 2017
 * Excellent League Member of Shanghai Jiao Tong University (top 10%), May. 2017
+
 -->

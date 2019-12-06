@@ -9,7 +9,10 @@ CLICK ON THE TITLE FOR DETAILS!
 
 ## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)
 * Calculated 3 axes, established single tooth coordinate systems, and calculated oriented bounding boxes (OBB) for each tooth using principal component analysis (PCA) to improve the accuracy of locating operating axes and points
-* Developed 10 interaction modes (rotation around X/Y/Z axis and left/right/top/bottom side of the tooth, translation along X/Y/Z axis) for each tooth in both PC system and VR system
+* Developed 10 interaction modes for each tooth in both PC system and VR system:
+    * rotation around X/Y/Z axis
+    * rotation left/right/top/bottom side of the tooth
+    * translation along X/Y/Z axis
 * Established scenes for surgery simulation and data displaying (number, transformation matrix of the chosen tooth, etc.); Integrated all functions above in a VR application which could be used to simulate surgery vividly and calculate transformation matrix of each tooth during operation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -17,7 +20,8 @@ CLICK ON THE TITLE FOR DETAILS!
 * Designed and implemented a neural network based on SegNet to segment teeth parts from converted CT images; Constructed teeth dataset by annotating teeth using Photoshop after converting CT scans to PNG images; Optimized the performance of the network to high accuracy (99.5% in testing) using SELU
 * Extracted edges of segmented teeth images using Canny Operator which is not susceptible to noise; Generated point clouds on extracted edges and reconstructed the 3D teeth mesh model using spatial characteristics of CT scans
 * Proposed an optimized method which segmented teeth from CT scans using the network above but changed produced images into CT formats to utilize existing mature medical imaging technology for reconstruction
-   <img src="https://renjie-woo.github.io/images/reconstruction/SEG.png" width = "50%"/>
+
+<img src="https://renjie-woo.github.io/images/reconstruction/SEG.png" width = "50%"/>
 
    <!-- [![poster for Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/images/reconstruction/SEG.png)](https://renjie-woo.github.io/images/reconstruction/SEG.png)
    -->
