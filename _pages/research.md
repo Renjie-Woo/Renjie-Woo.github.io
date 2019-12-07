@@ -16,7 +16,7 @@ CLICK ON THE TITLE FOR DETAILS!
 * Established scenes for surgery simulation and data displaying (number, transformation matrix of the chosen tooth, etc.); Integrated all functions above in a VR application which could be used to simulate surgery vividly and calculate transformation matrix of each tooth during operation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pglWMPHbTlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/research/reconstruction/)
+## [Reconstructing Teeth from a CT scan](https://renjie-woo.github.io/files/report.pdf)
 * Designed and implemented a neural network based on SegNet to segment teeth parts from converted CT images; Constructed teeth dataset by annotating teeth using Photoshop after converting CT scans to PNG images; Optimized the performance of the network to high accuracy (99.5% in testing) using SELU
 * Extracted edges of segmented teeth images using Canny Operator which is not susceptible to noise; Generated point clouds on extracted edges and reconstructed the 3D teeth mesh model using spatial characteristics of CT scans
 * Proposed an optimized method which segmented teeth from CT scans using the network above but changed produced images into CT formats to utilize existing mature medical imaging technology for reconstruction
