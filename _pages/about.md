@@ -31,6 +31,10 @@ Sep. 2016 - Jun. 2020 (Expected) <br>
 * Outstanding Students of Military Training (top 10%), Sep. 2017
 * Excellent League Member of Shanghai Jiao Tong University (top 10%), May. 2017
 
+# Skills
+* Programming: Python (TensorFlow, NumPy), C/C++ (OpenGL), C#, HTML, JavaScript, SQL, Java, Swift
+Professional Tools: Unity, MATLAB, LATEX, Adobe Photoshop
+Other: Photography
 <!--
 # Research Experience
 ## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)		Apr. 2019 - Jun. 2019
