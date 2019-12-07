@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Persoanl"
+title: "Persoanl Life"
 permalink: /personal/
 author_profile: true
 
@@ -33,4 +33,5 @@ author_profile: true
 <span>Google Show</span>
 </center>
 * Photography
-
+* Reading
+* Music

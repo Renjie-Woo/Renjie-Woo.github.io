@@ -7,12 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 
-个人简介：100-150w
-CV链接
-Skills选自CV
-照片：展示多方面的experience
-联系方式 -->
 # About me
 Hi! It's Renjie. I'm a senior student in Computer Science and Technology in Shanghai Jiao Tong University (SJTU), China.
 
