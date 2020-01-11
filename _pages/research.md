@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 
 ---
-CLICK ON THE TITLE FOR DETAILS!
 
 ## [VR-based 3D Tooth Operation Model System for Dental Surgery](https://renjie-woo.github.io/research/vr-tooth/)
 * Calculated 3 axes, established single tooth coordinate systems, and calculated oriented bounding boxes (OBB) for each tooth using principal component analysis (PCA) to improve the accuracy of locating operating axes and points
