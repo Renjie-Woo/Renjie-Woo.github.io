@@ -24,6 +24,10 @@ author_profile: true
 
     <img src="https://renjie-woo.github.io/images/leadership/2019_FX.png" width="50%" /><br>
     <a href="http://affairs.sjtu.edu.cn/cms/view/wz.action?id=ff8080816bf3a209016bf4767d7a01ef"><span>FanXing - 2019 Shanghai Jiao Tong University Inspirational Character Selection Activity</span></a>
+    
+    <img src="https://renjie-woo.github.io/images/leadership/power.png" width="50%" /><br>
+    <a href="http://foundation.sjtu.edu.cn/site/news-detail.php?id=1396"><span>2019 The Power of Role Models</span></a>
+
     </center>
 
 # Hobbies
